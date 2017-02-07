@@ -5,7 +5,11 @@ How to use GitHub for collaborating on public policy (especially for open data).
 
 Initial material copied from here: http://government.github.io/best-practices/collaborative-policymaking/
 
-See also: https://government.github.io/best-practices/
+See also:
+- [GitHub — Government best practices](https://government.github.io/best-practices/)
+- [GitHub Showcase — Policies](https://github.com/showcases/policies)
+- [The GitHub Difference: Overcoming Barriers to Collaboration in Government](https://www.brookings.edu/blog/techtank/2015/01/15/the-github-difference-overcoming-barriers-to-collaboration-in-government/)
+- [Using GitHub in Government: A Look at a New Collaboration Platform](https://policyinformatics.asu.edu/content/using-github-government-look-new-collaboration-platform)
 
 
 ## Collaborative Policymaking
