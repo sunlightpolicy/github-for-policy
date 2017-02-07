@@ -19,6 +19,10 @@ See also:
 *   [Project Open Data](http://project-open-data.github.io/) (White House Open Data Policy)
 *   [New York State Open Data Handbook](http://nys-its.github.io/open-data-handbook/)
 *   [Australian Capital Territory Open Data Policy](http://actgov.github.io/opendatapolicy/)
+*   [NYC OpenData Technical Standards Manual (TSM)](http://cityofnewyork.github.io/opendatatsm/)
+*   [Chattanooga Open Data Executive Order](https://github.com/cityofchattanooga/Chattanooga-Open-Data-Executive-Order)
+*   [San Francisco Open Data Legislation](https://github.com/SupervisorMarkFarrell/San-Francisco-Open-Data-Legislation)
+*   [San Diego Open Data Policy](https://github.com/opensandiego/sandiego-opendata-policy/)
 
 ### Logistics
 
