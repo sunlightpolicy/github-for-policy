@@ -26,7 +26,7 @@ See also: https://government.github.io/best-practices/
 
 *   Expose process: publish pre-release revision history, have discussions in public, memorialize in-person discussions, leverage GitHub's [Issues](https://guides.github.com/features/issues/) feature, and strive to maintain one class of contributors
 *   Explicitly encourage contribution — both in your project documentation and along side the published content
-*   License the content as appropriate, usually either Public Domain (CC0) or CC-BY
+*   License the content as appropriate, usually either [Public Domain (CC0)](https://choosealicense.com/licenses/cc0-1.0/) or [CC-BY](https://choosealicense.com/licenses/cc-by-4.0/)
 *   Communicate the big picture: roadmap, timelines, goals, vision, and current status
 *   Whenever possible, open source the problem, not the solution
 *   Provide encouragement, feedback, and gratitude with each contribution
